@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Name: Chris Federici
-Section: OPS445 NDD
+Name: Christian Federici
 
 <!--
 **cfederici/cfederici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
