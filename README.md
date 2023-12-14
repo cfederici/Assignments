@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a Memory Script using python to take a program name as an argument and return the memory of that program using hashtags
 
 Name: Christian Federici
 
