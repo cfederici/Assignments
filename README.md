@@ -1,4 +1,4 @@
-### All of my python assignments from school.
+### Lab 2
 
 Name: Christian Federici
 
